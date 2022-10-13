@@ -1,0 +1,20 @@
+body {
+  background: blanchedalmond;
+}
+h1,
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: green;
+}
+.croissant-photo {
+  max-width: 200px;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
